@@ -1,7 +1,21 @@
-﻿namespace Rep_It
+﻿using System.Windows.Forms;
+
+namespace Rep_It
 {
     partial class Form1
     {
+
+        //Override ProcessCmdKey method for permit to Exit with Escape key
+        protected override bool ProcessCmdKey(ref Message msg, Keys keyData)
+        {
+            if (keyData == Keys.Escape)
+            {
+                this.Close();
+                return true;
+            }
+            return base.ProcessCmdKey(ref msg, keyData);
+        }
+
         /// <summary>
         /// Variabile di progettazione necessaria.
         /// </summary>
@@ -28,9 +42,18 @@
         /// </summary>
         private void InitializeComponent()
         {
+            //Define dimensions and properties for Form
             this.components = new System.ComponentModel.Container();
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Form1";
+            this.BackColor = System.Drawing.Color.DimGray;
+            this.ClientSize = new System.Drawing.Size(502, 461);
+            this.Text = "Rep-It";
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.ResumeLayout(false);
+            this.PerformLayout();
         }
 
         #endregion

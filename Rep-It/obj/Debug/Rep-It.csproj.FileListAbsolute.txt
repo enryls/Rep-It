@@ -1,0 +1,9 @@
+d:\documenti\visual studio 2015\Projects\Rep-It\bin\Debug\Rep-It.exe.config
+D:\Documenti\GitHub\Rep-It\Rep-It\bin\Debug\Rep-It.exe.config
+D:\Documenti\GitHub\Rep-It\Rep-It\bin\Debug\Rep-It.exe
+D:\Documenti\GitHub\Rep-It\Rep-It\bin\Debug\Rep-It.pdb
+D:\Documenti\GitHub\Rep-It\Rep-It\obj\Debug\Rep-It.csprojResolveAssemblyReference.cache
+D:\Documenti\GitHub\Rep-It\Rep-It\obj\Debug\Rep_It.Properties.Resources.resources
+D:\Documenti\GitHub\Rep-It\Rep-It\obj\Debug\Rep-It.csproj.GenerateResource.Cache
+D:\Documenti\GitHub\Rep-It\Rep-It\obj\Debug\Rep-It.exe
+D:\Documenti\GitHub\Rep-It\Rep-It\obj\Debug\Rep-It.pdb
