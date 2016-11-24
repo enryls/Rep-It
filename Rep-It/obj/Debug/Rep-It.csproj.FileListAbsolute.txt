@@ -7,3 +7,4 @@ D:\Documenti\GitHub\Rep-It\Rep-It\obj\Debug\Rep_It.Properties.Resources.resource
 D:\Documenti\GitHub\Rep-It\Rep-It\obj\Debug\Rep-It.csproj.GenerateResource.Cache
 D:\Documenti\GitHub\Rep-It\Rep-It\obj\Debug\Rep-It.exe
 D:\Documenti\GitHub\Rep-It\Rep-It\obj\Debug\Rep-It.pdb
+D:\Documenti\GitHub\Rep-It\Rep-It\obj\Debug\Rep_It.Form1.resources
